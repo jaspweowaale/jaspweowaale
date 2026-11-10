@@ -91,9 +91,15 @@ is the authoritative statement of how that code may be used.
 
 ## Support independent development
 
-My projects are independently researched, developed, and maintained.
+My projects are independently researched, developed, and maintained, and they are open to
+anyone who wants to take part. Time, skills, knowledge and ideas are all useful — you do not
+need to be a programmer, and you do not need to contribute money.
 
-If you find the work useful, voluntary contributions help support infrastructure, research,
+**Ways to get involved:** https://holisticdata.com/get-involved · [spamhunter.org/get-involved](https://spamhunter.org/get-involved) ·
+[saltybever.com/get-involved](https://saltybever.com/get-involved) ·
+[phosach.app/get-involved](https://phosach.app/get-involved)
+
+Voluntary financial contributions are also welcome and help cover infrastructure, research,
 testing, documentation, and continued development.
 
 **Support my projects on Ko-fi:** https://ko-fi.com/jasperwaale
