@@ -102,10 +102,11 @@ need to be a programmer, and you do not need to contribute money.
 Voluntary financial contributions are also welcome and help cover infrastructure, research,
 testing, documentation, and continued development.
 
-**Support my projects on Ko-fi:** https://ko-fi.com/jasperwaale
+**Support the projects on Ko-fi:** https://ko-fi.com/holisticdataprojects
 
-One Ko-fi account supports all of these projects collectively — contributions are not directed
-to any single one.
+All contributions go through one Ko-fi account, Holistic Data Projects. You can support the
+projects collectively, or mention a particular project you would like your contribution to
+benefit — project preferences are managed manually rather than allocated automatically.
 
 Contributions are entirely voluntary. They do not grant preferential treatment, guaranteed
 features, or special access, and they never influence research findings, technical decisions, or
@@ -114,7 +115,7 @@ how any report or submission is handled.
 ## Contact and links
 
 - GitHub: https://github.com/jaspweowaale
-- Ko-fi: https://ko-fi.com/jasperwaale
+- Ko-fi: https://ko-fi.com/holisticdataprojects
 - Spam Hunter: https://spamhunter.org
 - Salty Bever: https://saltybever.com
 - Phố Sạch: https://phosach.app
